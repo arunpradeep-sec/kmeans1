@@ -55,6 +55,10 @@ Upload:
 * Python code
 * Output screenshot
 
+Output
+
+![outputimage](1.jpeg)
+
 Example:
 
 ```
